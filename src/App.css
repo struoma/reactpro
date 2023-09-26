@@ -1,0 +1,83 @@
+.move{
+  margin-top: 40px;
+}
+
+.heading{
+
+  text-align: center;
+  color: rgba(68, 14, 14, 0.877);
+  margin-bottom: 20px;
+}
+
+.footer{
+
+  background-color: rgba(31, 5, 5, 0.884);
+  height: 50px;
+  color: white;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.copy{
+
+  font-style: italic;
+  padding-top: 15px;
+}
+
+.container link a{
+
+  padding: 0;
+  margin: 0;
+}
+
+.link a:hover{
+
+  background-color: rgba(167, 149, 149, 0.89);
+  border-radius: 40%;
+}
+
+.imgs{
+  border-radius: 50%;
+}
+
+.butClick{
+  background-color: rgba(66, 6, 6, 0.87);
+  color: white;
+  border-radius: 30px;
+}
+.butClick2{
+  background-color: rgba(66, 6, 6, 0.87);
+  color: white;
+  border-radius: 30px;
+  margin-top: 20px;
+}
+
+.butClick:hover{
+
+  color: red;
+  cursor: pointer;
+}
+
+.butClick2:hover{
+
+  color: red;
+  cursor: pointer;
+}
+
+.dollar{
+
+  font-size: 1.5em;
+  color: rgba(116, 7, 7, 0.822);
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+
+.butClick3{
+  background-color: rgba(66, 6, 6, 0.87);
+  color: white;
+  border-radius: 30px;
+  margin-top: 5px;
+  
+}
